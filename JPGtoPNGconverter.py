@@ -20,4 +20,3 @@ for file in os.listdir(image_folder):
 
 
 
-print(image_folder,output_folder)
